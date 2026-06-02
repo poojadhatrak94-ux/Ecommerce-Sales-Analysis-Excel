@@ -35,3 +35,14 @@ Built an interactive Excel dashboard to analyze e-commerce sales performance acr
 
 ## Screenshots
 Dashboard, Data Cleaning, and Pivot Table screenshots are included in this repository.
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
+
+## Data Cleaning Process
+
+![Data Cleaning](Data_Cleaning.png)
+
+## Pivot Tables
+
+![Pivot Tables](Pivot_Tables.png)
